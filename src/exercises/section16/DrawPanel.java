@@ -52,7 +52,7 @@ public class DrawPanel extends JPanel
         for ( int i = 0; i < ovals.length; i++ )
         {
             ovals[ i ] = new MyOval( 
-                    randomNumber.nextInt( 70 ),    // x1
+                    randomNumber.nextInt( 700 ),    // x1
                     randomNumber.nextInt( 700 ),    // y1
                     randomNumber.nextInt( 700 ),    // x2
                     randomNumber.nextInt( 700 ),    // y2
