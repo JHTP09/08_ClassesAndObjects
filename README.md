@@ -21,8 +21,8 @@ This is a normal java project. To be able to run it on Netbeans or any other sim
 4. Finish
 5. Right click on project from "Projects" window -> Select "Git" -> Select "Remote" -> Select "Pull.." -> Next
 6. Choose "Specify Git Repository Location"
-  6.1. Remote Name: origin
-  6.2. Repository URL: https://github.com/JHTP09/08_ClassesAndObjects.git
-  6.3. User: <your username>
-  6.4. Password: <your password>
-7. Select "master -> origin master" -> Finish
+7. Remote Name: origin
+8. Repository URL: https://github.com/JHTP09/08_ClassesAndObjects.git
+9. User: 'your username'
+10. Password: 'your password'
+11. Select "master -> origin master" -> Finish
